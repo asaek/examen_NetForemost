@@ -1,0 +1,9 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true,
+        "source.organizeImports": true
+    },
+    "files.defaultLanguage": "dart",
+    "editor.formatOnSave": true,
+    "cmake.sourceDirectory": "/Users/asaek/Downloads/Flutter/Proyectos/trainee-frontend-interview-5/flutter/linux",
+}
